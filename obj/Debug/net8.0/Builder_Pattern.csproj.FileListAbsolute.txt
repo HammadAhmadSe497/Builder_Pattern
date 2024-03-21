@@ -12,3 +12,4 @@ E:\Design Pattern\Builder_Pattern\obj\Debug\net8.0\refint\Builder_Pattern.dll
 E:\Design Pattern\Builder_Pattern\obj\Debug\net8.0\Builder_Pattern.pdb
 E:\Design Pattern\Builder_Pattern\obj\Debug\net8.0\Builder_Pattern.genruntimeconfig.cache
 E:\Design Pattern\Builder_Pattern\obj\Debug\net8.0\ref\Builder_Pattern.dll
+E:\Design Pattern\Builder_Pattern\obj\Debug\net8.0\Builder_Pattern.sourcelink.json

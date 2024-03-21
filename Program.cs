@@ -6,9 +6,17 @@ class Program
        Director nonveg=new Director();
      MealBuilder nonvegMeal = new NonVegeterianMeal();
     nonveg.makeMeal(nonvegMeal);
-    Meal meal = nonvegMeal.GetProduct();
+    Meal nonvegmeal = nonvegMeal.GetProduct();
     Console.WriteLine("Non-Vegeterian Meal");
     Console.WriteLine("----------------------------------------------");
-    Console.WriteLine(meal);
+    Console.WriteLine(nonvegmeal);
+    Console.WriteLine("----------------------------------------------");
+     Director veg=new Director();
+     MealBuilder vegMeal = new NonVegeterianMeal();
+    nonveg.makeMeal(nonvegMeal);
+    Meal vegmeal = nonvegMeal.GetProduct();
+    Console.WriteLine("Vegeterian Meal");
+    Console.WriteLine("----------------------------------------------");
+    Console.WriteLine(vegmeal);
     }
 }
